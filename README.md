@@ -1,4 +1,4 @@
-# ♻️ TxM - Job Lục Rác cho QBCore
+# ♻️ TxM - Lục Thùng Rác cho QBCore
 
 ![Trash Job Banner](https://i.imgur.com/Yj9GdJ5.png)
 
