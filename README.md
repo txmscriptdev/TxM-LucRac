@@ -44,19 +44,19 @@
 ## 🔧 Cài đặt
 
 1. Tải mã nguồn
-   Thêm vào server.cfg hoặc resources.cfg
-   ```bash
-    -- ensure TxM-LucRac
-   ```
+Thêm vào server.cfg hoặc resources.cfg
+```bash
+ensure TxM-LucRac
+```
 3. Thêm các item vào shared/item
 qb-inventory
 ```bash
-    ["thep"] = { name = "thep", label = "Thép", weight = 400, type = "item", image = "thep.png", unique = false, useable = false, shouldClose = false, description = "Một miếng thép vô cùng giá trị có thể dùng để bán hoặc chế tạo." }, 
-    ["nhom"] = { name = "nhom", label = "Nhôm", weight = 400, type = "item", image = "nhom.png", unique = false, useable = false, shouldClose = false, description = "Một miếng nhôm nhẹ có thể dùng để tái chế hoặc chế tạo." },
-    ["dong"] = { name = "dong", label = "Đồng", weight = 360, type = "item", image = "dong.png", unique = false, useable = false, shouldClose = false, description = "Một khối đồng thô dùng cho nhiều mục đích sản xuất." },
-    ["satvun"] = { name = "satvun", label = "Sắt Vụn", weight = 300, type = "item", image = "satvun.png", unique = false, useable = false, shouldClose = false, description = "Một ít sắt vụn có thể tái chế thành vật liệu hữu ích." },
-    ["sat"] = { name = "sat", label = "Sắt", weight = 200, type = "item", image = "sat.png", unique = false, useable = false, shouldClose = false, description = "Một miếng sắt thô dùng để chế tạo hoặc xây dựng." },
-    ["chainhuarong"] = { name = "chainhuarong", label = "Chai nhựa rỗng", weight = 20, type = "item", image = "chainhuarong.png", unique = false, useable = false, shouldClose = false, description = "Một chai nhựa rỗng, đừng vứt bừa bãi, hãy tái chế!" },
+["thep"] = { name = "thep", label = "Thép", weight = 400, type = "item", image = "thep.png", unique = false, useable = false, shouldClose = false, description = "Một miếng thép vô cùng giá trị có thể dùng để bán hoặc chế tạo." }, 
+["nhom"] = { name = "nhom", label = "Nhôm", weight = 400, type = "item", image = "nhom.png", unique = false, useable = false, shouldClose = false, description = "Một miếng nhôm nhẹ có thể dùng để tái chế hoặc chế tạo." },
+["dong"] = { name = "dong", label = "Đồng", weight = 360, type = "item", image = "dong.png", unique = false, useable = false, shouldClose = false, description = "Một khối đồng thô dùng cho nhiều mục đích sản xuất." },
+["satvun"] = { name = "satvun", label = "Sắt Vụn", weight = 300, type = "item", image = "satvun.png", unique = false, useable = false, shouldClose = false, description = "Một ít sắt vụn có thể tái chế thành vật liệu hữu ích." },
+["sat"] = { name = "sat", label = "Sắt", weight = 200, type = "item", image = "sat.png", unique = false, useable = false, shouldClose = false, description = "Một miếng sắt thô dùng để chế tạo hoặc xây dựng." },
+["chainhuarong"] = { name = "chainhuarong", label = "Chai nhựa rỗng", weight = 20, type = "item", image = "chainhuarong.png", unique = false, useable = false, shouldClose = false, description = "Một chai nhựa rỗng, đừng vứt bừa bãi, hãy tái chế!" },
 ```
 ox_inventory
 ```bash
