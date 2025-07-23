@@ -32,7 +32,7 @@
 
 ## 🧭 Hướng dẫn chơi
 
-1. 🔍 **Đến các thùng rác** được đánh dấu trên bản đồ và nhấn **[E]** để lục.
+1. 🔍 **Đến các thùng rác** trên bản đồ và target để lục.
 2. 🎁 **Nhận vật phẩm** ngẫu nhiên từ rác (sắt, đồng, chai nhựa...).
 3. 💸 Đem vật phẩm đến **điểm bán** để đổi lấy tiền thưởng.
 
